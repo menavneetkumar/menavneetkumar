@@ -6,6 +6,8 @@ Full Stack Developer | Web Developer
 ------------------------------------
 
 I am a versatile developer with expertise spanning both Full Stack and Web Development, bringing a comprehensive skill set to contribute effectively to dynamic projects.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+
 
 * 🌍  I'm based in Pune
 * 🖥️  See my portfolio at [My Portfolio](http://menavneetkumar.github.io/myportfolio/)
