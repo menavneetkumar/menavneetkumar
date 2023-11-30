@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | Web Developer
 ------------------------------------
 
-I am a versatile developer with expertise spanning both Full Stack <br> and Web Development, bringing a comprehensive skill set to contribute effectively to dynamic projects.
+I am a versatile developer with expertise spanning both Full Stack and Web Development,<br> bringing a comprehensive skill set to contribute effectively to dynamic projects.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 
