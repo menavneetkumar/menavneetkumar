@@ -7,8 +7,7 @@
 
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [My Portfolio](http://menavneetkumar.github.io/myportfolio/)
-* ✉️  You can contact me at [menavneetkj@gmail.com](mailto:menavneetkj@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](http://navneet-portfolio.vercel.aap) ✉️  You can contact me at [menavneetkj@gmail.com](mailto:menavneetkj@gmail.com)
 * 🤝  I'm open to collaborating on Web Application
 * ⚡  I am enthusiastic about the opportunity of Full Stack Devloper Role.
 
